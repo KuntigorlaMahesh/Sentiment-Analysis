@@ -1,0 +1,11 @@
+text,sentiment
+I love this!,positive
+This is amazing!,positive
+I hate this.,negative
+This is the worst!,negative
+"It's okay, not bad.",neutral
+Absolutely fantastic experience!,positive
+Really disappointing.,negative
+I don't like it.,negative
+Pretty good overall.,positive
+Neutral response.,neutral
